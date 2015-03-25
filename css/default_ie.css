@@ -1,0 +1,39 @@
+
+	.topleft{
+		width:28.0%;
+		padding: 0 0 0 1.5em;
+		float: left;
+	}
+	.topright{
+		width:62.0%;
+		padding: 0 0 0 .5em;
+		float: left;
+	}
+	.bottomleft{
+		width:28.0%;
+		padding: 0 0 0 1.5em;
+		float: left;
+		height: 230px;
+		margin-top: -20px;
+	}
+	.bottomright{
+		width:62.0%;
+		margin-top: -20px;
+		padding: 0 0 0 .5em;
+		float: left;
+	}
+	.advancedsearch {
+		margin: 5px 0 0 210px;
+		float: center;
+			}
+	.tab_container {
+		border: 1px solid #e1e1e1;
+		border-top: none;
+		clear: both;
+		float: left; 
+		width: 95%;
+		background: #FFFFFF;
+		height: 230px;
+		font-family: helvetica,arial,sans-serif;
+		color: #666666;
+	}

@@ -1,0 +1,725 @@
+/*
+Item Name : Mega Menu Reloaded
+Item URI : http://codecanyon.net/item/mega-menu-reloaded/1593152
+Author URI : http://codecanyon.net/user/Pixelworkshop/
+Version : 1.41
+*/
+
+/*
+
+TABLE OF CONTENTS
+
+00 PAGE STYLING (REMOVABLE)
+01 MENU BAR
+   1. Mega Menu Bar
+   2. Mega Menu Trigger Button
+   3. Mega Menu Carousel Buttons
+02 DROP DOWN CONTAINER
+03 DROP DOWN SCROLLBARS
+04 COLUMNS GRID
+05 CONTENT & TYPOGRAPHY
+   1. Basic Typography 
+   2. Lists
+   3. Paragraphs with Icons 
+   4. Paragraphs with borders 
+   5. Tables
+   6. Inline Images 
+06 DROP DOWN TABS
+07 CONTACT FORM
+08 MOBILE DEVICES
+
+*/
+
+
+/*  _______________________________________
+
+    01 MENU BAR
+    _______________________________________  */
+
+
+
+
+/* 1. Mega Menu Bar */
+
+.megamenu_container {
+	width:960px;
+	height:44px;
+	margin:0 auto;
+	position:relative;
+	z-index:10;
+	font-weight: bold;
+	background-color: #000;
+}
+.megamenu_fixed {
+	width:560px;
+	height:44px;
+	position:fixed;
+	top:0;
+	left:50%;
+	margin:0 auto 0 -480px;
+	z-index:2;
+	background-image:url("../img/bg.png");
+	background-color: #3d3d3d;
+	-webkit-border-radius:0 0 3px 3px;
+	-moz-border-radius:0 0 3px 3px;
+	border-radius:0 0 3px 3px;	
+	-webkit-box-shadow: 0 2px 3px #cccccc;
+	-moz-box-shadow: 0 2px 3px #cccccc;
+	-o-box-shadow: 0 2px 3px #cccccc;
+	box-shadow: 0 2px 3px #cccccc;
+}
+.megamenu {
+	font-size:13px;
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+	.megamenu > li {
+		display:inline;
+		border:none;
+		margin:0 auto;
+/*		border-right:solid 1px #454545;
+		border-left:solid 1px #242424;
+*/		background-color:transparent;
+		padding: 0px 10px 0px 10px;
+		-webkit-transition: background-color 0.4s ease-out;
+		-moz-transition: background-color 0.4s ease-out;
+		-o-transition: background-color 0.4s ease-out;
+		-ms-transition: background-color 0.4s ease-out;
+		transition: background-color 0.4s ease-out;
+		float: left;
+	}
+	.megamenu_fixed .megamenu > li {
+		padding: 15px 0 15px 10px;
+	}
+		.megamenu > li:hover {
+			background-color:#f0b82d;
+		}
+		.megamenu > li.active,
+		.megamenu > li.active:hover {
+			background-color:#f0b82d;
+			color: #000;
+		}
+		.megamenu > li a {
+			text-decoration:none;
+			color:#000;
+		}
+			.megamenu > li a:hover {
+				color:#fff;
+				background-color: #0074BD;
+			}
+		.megamenu > li span a {
+			color:#ffffff;
+		}
+		.megamenu > li a:focus {
+			outline:none;
+		}
+		.megamenu > li .drop,
+		.megamenu > li .nodrop {
+			font-size:12px;
+			line-height:44px;
+			text-transform:uppercase;
+			outline:0;
+			text-decoration:none;
+			color:#ffffff;
+		}
+		.megamenu > li .drop {
+			background:url("../img/down.png") no-repeat right 18px;
+			padding:14px 20px 20px 0;
+		}
+		.megamenu > li .nodrop {
+			padding:14px 5px 20px 0;
+		}
+		.megamenu > li .drop:hover,
+		.megamenu > li .nodrop:hover {
+			cursor:pointer;
+			color: #000;
+		}
+		.megamenu > li.right {
+			float:right;
+			margin-right:-1px;
+			padding: 0px 0px 0px 10px;
+		}
+		.megamenu > li.right a {
+			margin-right:5px;
+		}
+
+
+
+/*  _______________________________________
+
+    02 DROP DOWN CONTAINER
+    _______________________________________  */
+
+
+
+
+.megamenu > li .megamenu_fullwidth {
+	position:absolute;
+	left:-9999em;
+	top:44px; /* Places the drop down under the menu bar */
+	z-index:9998; /* For IE7 */
+	padding:24px 0 10px 0;
+	text-align:left;
+	border:1px solid #1b1b1b;
+	border-top:none;
+	background:#e1e1e1;
+	left: 50px;
+	/* Rounded Corners */
+    -webkit-border-radius: 0 0 4px 4px;
+	-moz-border-radius: 0 0 4px 4px;
+    border-radius: 0 0 4px 4px;
+}
+.megamenu_push .megamenu > li .megamenu_fullwidth {
+	position:relative;
+	top:5px;
+}
+.megamenu > li:hover .megamenu_fullwidth {
+	left:auto;
+}
+
+
+
+
+
+/*  _______________________________________
+
+    04 COLUMNS GRID
+    _______________________________________  */
+
+
+.megamenu .drop1column {width: 80px; margin:0 0 0 -11px;}
+.megamenu .drop2columns {width: 160px; margin:0 0 0 -11px;}
+.megamenu .drop3columns {width: 240px; margin:0 0 0 -11px;}
+.megamenu .drop4columns {width: 320px; margin:0 0 0 -11px;}
+.megamenu .drop5columns {width: 400px; margin:0 0 0 -11px;}
+.megamenu .drop6columns {width: 500px; margin:0 0 0 -11px;}
+.megamenu .drop7columns {width: 570px; margin:0 0 0 -11px;}
+.megamenu .drop8columns {width: 640px; margin:0 0 0 -11px;}
+.megamenu .drop9columns {width: 720px; margin:0 0 0 -11px;}
+.megamenu .drop10columns {width: 800px; margin:0 0 0 -11px;}
+.megamenu .drop11columns {width: 880px;	margin:0 0 0 -11px;}
+.megamenu .drop12columns {width: 960px;	margin:0 0 0 -11px;}
+
+
+
+.megamenu .col_1,
+.megamenu .col_2,
+.megamenu .col_3,
+.megamenu .col_4,
+.megamenu .col_5,
+.megamenu .col_6,
+.megamenu .col_7,
+.megamenu .col_8,
+.megamenu .col_9,
+.megamenu .col_10,
+.megamenu .col_11,
+.megamenu .col_12 {
+	float: left;
+	position: relative;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.megamenu .col_1 {width:50px;}
+.megamenu .col_2 {width:130px;}
+.megamenu .col_3 {width:220px;}
+.megamenu .col_4 {width:290px;}
+.megamenu .col_5 {width:370px;}
+.megamenu .col_6 {width:450px;}
+.megamenu .col_7 {width:530px;}
+.megamenu .col_8 {width:610px;}
+.megamenu .col_9 {width:690px;}
+.megamenu .col_10 {width:770px;}
+.megamenu .col_11 {width:850px;}
+.megamenu .col_12 {width:930px;}
+
+.megamenu .col_nomargins {
+	margin:0;
+}
+.megamenu .col_nomargin_left {
+	margin-left:0;
+}
+.megamenu .col_nomargin_right {
+	margin-right:0;
+}
+
+.megamenu .clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 18px;
+}
+
+
+
+
+/*  _______________________________________
+
+    05 CONTENT & TYPOGRAPHY
+    _______________________________________  */
+
+
+
+
+/* 1. Basic Typography */
+
+.megamenu .black_bg {
+	background-color:#000000;
+	padding:4px 6px 4px 6px;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;	
+}
+
+.megamenu p, 
+.megamenu h1, 
+.megamenu h2, 
+.megamenu h3, 
+.megamenu h4, 
+.megamenu h5, 
+.megamenu h6 {
+	padding:0;
+	margin:0;
+	color:#0074BD;
+}
+.megamenu h4 a{
+	padding:0;
+	margin:0;
+	color:#c62c13;
+	}
+.megamenu p {
+	font-size:12px; 
+	line-height:21px; 
+	margin-bottom:18px;
+}
+.megamenu h1, 
+.megamenu h2 {
+	background:url("../img/menu_separator.jpg") bottom repeat-x;
+	padding-bottom:12px;
+}
+.megamenu h1, 
+.megamenu h2, 
+.megamenu h3 {
+	margin-bottom:18px;
+}
+.megamenu h4, 
+.megamenu h5, 
+.megamenu h6 {
+	margin-bottom:12px;
+}
+.megamenu h1 {
+	font-size:36px;
+	line-height:36px;
+}
+.megamenu h2 {
+	font-size:30px; 
+	line-height:42px;
+}
+.megamenu h3 {
+	font-size:28px; 
+	line-height:28px;
+}
+.megamenu h4 {
+	font-size:18px; 
+	line-height:24px;
+}
+.megamenu h4 a {
+	font-size:18px; 
+	line-height:24px;
+    font-family: 'Helvetica W01 Cn',arial,sans-serif;
+}
+.megamenu h5 {
+	font-size:18px; 
+	line-height:28px;
+    font-family: 'Helvetica W01 Cn',arial,sans-serif;
+}
+.megamenu h6 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:14px; 
+	line-height:18px; 
+	text-transform:uppercase;
+}
+
+
+/* 2. Lists */
+
+.megamenu > li ul,
+.megamenu > li ol {
+	padding:0 0 0 -2px;
+	margin:-10px 0 18px 0;
+}
+.megamenu > li ol {
+	list-style:decimal;
+}
+.megamenu > li ul li,
+.megamenu > li ol li {
+padding: 3px 5px 4px 14px; background:url(../img/arrow2.gif) no-repeat 0px 8px; font-weight: normal;
+	font-size:12px;
+	line-height:22px;
+	position:relative;
+	color:#333;
+}
+
+/* 3. Paragraphs with Icons */
+
+.megamenu .calendar, 
+.megamenu .note, 
+.megamenu .help, 
+.megamenu .delete, 
+.megamenu .favorite, 
+.megamenu .lock, 
+.megamenu .archive, 
+.megamenu .briefcase, 
+.megamenu .search, 
+.megamenu .user {
+	padding-left:36px; 
+	margin-bottom:18px;
+}
+
+/* 4. Paragraphs with borders */
+
+.megamenu .dark, 
+.megamenu .brown, 
+.megamenu .yellow, 
+.megamenu .red, 
+.megamenu .blue, 
+.megamenu .green {
+	padding-left:15px; 
+	color:#cccccc; 
+	margin-bottom:18px;
+}
+.megamenu .dark {border-left:#3B3B3B solid 7px}
+.megamenu .brown {border-left:#8D8767 solid 7px}
+.megamenu .yellow {border-left:#DBA742 solid 7px}
+.megamenu .red {border-left:#C05D48 solid 7px}
+.megamenu .blue {border-left:#52878B solid 7px}
+.megamenu .green {border-left:#B0BD85 solid 7px}
+.megamenu .table_light, 
+.megamenu .table_dark {
+	width:100%;
+	padding:0;
+	margin:6px 0 18px 0;
+	font-size:12px;
+}
+
+/* 5. Tables */
+
+.megamenu table {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+.megamenu .table_light th, 
+.megamenu .table_dark th {
+	text-align:left; 
+	padding:12px 9px 12px 9px; 
+	font-weight:bold; 
+	font-size:12px;
+}
+.megamenu .table_light {
+	border:1px solid #cbcbcb;
+	border-bottom:none;
+}
+	.megamenu .table_light th {
+		color:#3A3A3A; 
+		border-bottom:1px solid #cbcbcb; 
+		background:#F5F5F5;
+	}
+	.megamenu .table_light td {
+		border-bottom:1px solid #cbcbcb; 
+		background:#fff; 
+		padding:12px 9px 12px 9px; 
+		color:#888;
+	}
+
+.megamenu .table_dark {
+	border:1px solid #000; 
+	border-bottom:none;
+}
+	.megamenu .table_dark th {
+		color:#FFF; 
+		border-bottom:1px solid #000; 
+		background:#0D0D0D;
+	}
+	.megamenu .table_dark td {
+		border-bottom:1px solid #000; 
+		background:#0F0F0F; 
+		padding:12px 9px 12px 9px; 
+		color:#DDD;
+	}
+
+/* 6. Inline Images */
+
+.megamenu img {
+	border:none;
+}
+.megamenu .inline_img {
+	border: 1px solid #000000;
+	-webkit-box-shadow: 0 1px 1px #000000;
+	-moz-box-shadow: 0 1px 1px #000000;
+	-o-box-shadow: 0 1px 1px #000000;
+	box-shadow: 0 1px 1px #000000;
+	padding:4px;
+	background:#F4F4F4;
+	margin-bottom:18px;
+}
+.megamenu .megamenu_fullwidth .img_list {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+.megamenu .megamenu_fullwidth .img_list li {
+	float:left;
+	position:relative;
+	margin-right:15px;
+	margin-left:15px;
+	margin-bottom:15px;
+}
+.megamenu iframe {
+	border:none;
+}
+
+
+
+/*  _______________________________________
+
+    08 MOBILE DEVICES
+    _______________________________________  */
+
+
+
+
+@media only screen and (max-width: 980px) {
+
+/*
+	html {
+		height: 100%; 
+		font-size: 100%; 
+		overflow-y: scroll; 
+		-webkit-text-size-adjust: 100%;
+		-ms-text-size-adjust: 100%;
+	} 
+	body {
+		margin: 0; 
+		min-height: 100%; 
+		-webkit-font-smoothing:antialiased; 
+		font-smoothing:antialiased; 
+		text-rendering:optimizeLegibility;
+	}
+*/
+	.megamenu h1 {
+		font-size: 2.3em; 
+		margin-bottom: 0.6em;
+	} 
+	.megamenu h2 {
+		font-size: 2em; 
+		margin-bottom: 0.6em;
+	} 
+	.megamenu h3 {
+		font-size: 1.7em; 
+		margin-bottom: 0.6em;
+	} 
+	.megamenu h4 {
+		font-size: 1.4em; 
+		margin-bottom: 1em;
+	} 
+	.megamenu h5 {
+		font-size: 1.2em; 
+		margin-bottom: 1em;
+	} 
+	.megamenu h6 {
+		font-size: 1em; 
+		margin-bottom: 1em;
+	} 
+	.megamenu p, 
+	.megamenu ul,
+	.megamenu td,
+	.megamenu th, 
+	.megamenu label {
+		font-size: 0.9em; 
+		line-height: 1.8em; 
+		margin-bottom: 1.5em;
+	}
+
+	/* Mega Menu Containers */
+
+	.megamenu_container,
+	.megamenu_fixed {
+		width:100%;
+		height:auto;
+		margin:0;
+		position:relative;
+		left:auto;
+		top:auto;
+		background: #000;
+		-webkit-border-radius:3px;
+		-moz-border-radius:3px;
+		border-radius:3px;	
+	}
+		.megamenu > li {
+			border:none;
+		}
+			.megamenu > li:last-child {
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				-o-box-shadow: none;
+				box-shadow: none;
+			}
+			.megamenu > li span {
+				white-space:nowrap;
+			}
+	.megamenu_carousel_frame {
+		width:auto;
+		overflow:visible;
+		height:auto;
+	}
+	.megamenu_carousel_prev,
+	.megamenu_carousel_next {
+		display:none;
+	}
+
+	/* Drop Downs */
+
+	.megamenu > li .megamenu_fullwidth {
+		position:relative;
+		top:auto;
+		width: 100%;
+		margin:0 0 0 -1px;
+		-webkit-border-radius:0;
+		-moz-border-radius:0;
+		border-radius:0;	
+	}
+	.megamenu_push .megamenu > li .megamenu_fullwidth {
+		position:relative;
+		top:auto;
+	}
+	.megamenu .dropdownspacer {
+		display:none;
+	}
+
+	/* Columns Resizing -
+	   Switching to percentages */
+
+	.megamenu .col_1,
+	.megamenu .col_2,
+	.megamenu .col_3,
+	.megamenu .col_4,
+	.megamenu .col_5,
+	.megamenu .col_6,
+	.megamenu .col_7,
+	.megamenu .col_8,
+	.megamenu .col_9,
+	.megamenu .col_10,
+	.megamenu .col_11,
+	.megamenu .col_12 {
+		margin-left: 0.83333333333333%;
+		margin-right: 0.83333333333333%;
+	}
+	.megamenu img_margin_right {
+		margin-right: 0.83333333333333%;
+	}
+	.megamenu .col_1 {width: 6.6666666666667%;}
+	.megamenu .col_2 {width: 15%;}
+	.megamenu .col_3 {width: 23.333333333333%;}
+	.megamenu .col_4 {width: 31.666666666667%;}
+	.megamenu .col_5 {width: 40%;}
+	.megamenu .col_6 {width: 48.333333333333%;}
+	.megamenu .col_7 {width: 56.666666666667%;}
+	.megamenu .col_8 {width: 65%;}
+	.megamenu .col_9 {width: 73.333333333333%;}
+	.megamenu .col_10 {width: 81.666666666667%;}
+	.megamenu .col_11 {width: 90%;}
+	.megamenu .col_12 {width: 98.333333333333%;}
+
+	.megamenu .col_1 > .col_1,
+	.megamenu .col_2 > .col_1, .megamenu .col_2 > .col_2,
+	.megamenu .col_3 > .col_1, .megamenu .col_3 > .col_2, .megamenu .col_3 > .col_3,
+	.megamenu .col_4 > .col_1, .megamenu .col_4 > .col_2, .megamenu .col_4 > .col_3, .megamenu .col_4 > .col_4,
+	.megamenu .col_5 > .col_1, .megamenu .col_5 > .col_2, .megamenu .col_5 > .col_3, .megamenu .col_5 > .col_4, .megamenu .col_5 > .col_5,
+	.megamenu .col_6 > .col_1, .megamenu .col_6 > .col_2, .megamenu .col_6 > .col_3, .megamenu .col_6 > .col_4, .megamenu .col_6 > .col_5, .megamenu .col_6 > .col_6,
+	.megamenu .col_7 > .col_1, .megamenu .col_7 > .col_2, .megamenu .col_7 > .col_3, .megamenu .col_7 > .col_4, .megamenu .col_7 > .col_5, .megamenu .col_7 > .col_6, .megamenu .col_7 > .col_7,
+	.megamenu .col_8 > .col_1, .megamenu .col_8 > .col_2, .megamenu .col_8 > .col_3, .megamenu .col_8 > .col_4, .megamenu .col_8 > .col_5, .megamenu .col_8 > .col_6, .megamenu .col_8 > .col_7, .megamenu .col_8 > .col_8,
+	.megamenu .col_9 > .col_1, .megamenu .col_9 > .col_2, .megamenu .col_9 > .col_3, .megamenu .col_9 > .col_4, .megamenu .col_9 > .col_5, .megamenu .col_9 > .col_6, .megamenu .col_9 > .col_7,
+	.megamenu .col_9 > .col_8, .megamenu .col_9 > .col_9,
+	.megamenu .col_10 > .col_1, .megamenu .col_10 > .col_2, .megamenu .col_10 > .col_3, .megamenu .col_10 > .col_4, .megamenu .col_10 > .col_5, .megamenu .col_10 > .col_6, .megamenu .col_10 > .col_7,
+	.megamenu .col_10 > .col_8, .megamenu .col_10 > .col_9, .megamenu .col_10 > .col_10,
+	.megamenu .col_11 > .col_1, .megamenu .col_11 > .col_2, .megamenu .col_11 > .col_3, .megamenu .col_11 > .col_4, .megamenu .col_11 > .col_5, .megamenu .col_11 > .col_6, .megamenu .col_11 > .col_7,
+	.megamenu .col_11 > .col_8, .megamenu .col_11 > .col_9, .megamenu .col_11 > .col_10, .megamenu .col_11 > .col_11,
+	.megamenu .col_12 > .col_1, .megamenu .col_12 > .col_2, .megamenu .col_12 > .col_3, .megamenu .col_12 > .col_4, .megamenu .col_12 > .col_5, .megamenu .col_12 > .col_6, .megamenu .col_12 > .col_7,
+	.megamenu .col_12 > .col_8, .megamenu .col_12 > .col_9, .megamenu .col_12 > .col_10, .megamenu .col_12 > .col_11, .megamenu .col_12 > .col_12
+	{
+		width:auto;
+	}
+
+	/* Drop Downs Content */
+
+	.megamenu img {
+		max-width: 98%;
+		height: auto;
+		width: auto\9; /* ie8 */
+	}
+	.megamenu embed,
+	.megamenu object,
+	.megamenu iframe {
+		width: 100%;
+	}
+	.megamenu > li .megamenu_scrollbars {
+		width:100%;
+		height:auto;
+	}
+	.megamenu_scrollbars .megamenu_scroller_container {
+		position : relative;
+		width : 100%;
+		height : 100%;
+		overflow : visible;
+	}
+	.megamenu_scrollbars .megamenu_scroller_container .megamenu_scroll_area {
+		position : relative;
+		overflow-y:hidden;
+	}
+	.megamenu .form_element {
+		width:96%;
+	}   
+
+
+}
+
+@media only screen and (max-width: 479px) {
+		
+	.megamenu .col_1,
+	.megamenu .col_2,
+	.megamenu .col_3,
+	.megamenu .col_4,
+	.megamenu .col_5,
+	.megamenu .col_6,
+	.megamenu .col_7,
+	.megamenu .col_8,
+	.megamenu .col_9,
+	.megamenu .col_10,
+	.megamenu .col_11,
+	.megamenu .col_12 {
+		margin-left: 2%;
+		margin-right: 2%;
+		width: 96%;
+		float: left;
+		display: block;
+	}
+	.megamenu .col_nomargin_left,
+	.megamenu .col_nomargin_right {
+			margin-left: 0;
+			margin-right: 0;
+	}
+	.megamenu img {
+		max-width: 96%;
+		height: auto;
+		width: auto\9;
+	}
+	.megamenu_tabs_hide {
+		display:block;
+	}
+	.megamenu_tabs .megamenu_tabs_nav {
+		display:none;
+	}
+
+}

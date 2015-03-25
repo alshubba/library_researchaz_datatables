@@ -1,0 +1,69 @@
+/*
+Item Name : Mega Menu Reloaded
+Item URI : http://codecanyon.net/item/mega-menu-reloaded/1593152
+Author URI : http://codecanyon.net/user/Pixelworkshop/
+Version : 1.41
+*/
+
+.megamenu_container,
+.megamenu_fixed {
+	*height:auto;
+	_background-image:none;
+}
+.megamenu > li .drop {
+	_background:url("../img/ie6/down.gif") no-repeat right 18px;
+}
+#megamenu_trigger {
+	_display:none;
+}
+.megamenu_carousel_frame {
+	*height:44px;
+}
+.megamenu_carousel_prev {
+	_background:url("../img/ie6/previous.gif") no-repeat;
+}
+.megamenu_carousel_next {
+	_background:url("../img/ie6/next.gif") no-repeat;
+}
+.megamenu .dropdownspacer {
+	*display:none;
+}
+.megamenu > li .megamenu_fullwidth {
+	*top:44px;
+	_top:43px;
+}
+.megamenu .drop2columns {width: 160px; margin:0 0 0 -101px;}
+.megamenu .drop3columns {width: 240px; margin:0 0 0 -11px;}
+.megamenu .drop4columns {width: 320px; margin:0 0 0 -11px;}
+.megamenu .drop5columns {width: 400px; margin:0 0 0 -11px;}
+.megamenu .drop6columns {width: 500px; margin:0 0 0 -120px;}
+.megamenu .drop7columns {width: 570px; margin:0 0 0 -160px;}
+.megamenu .drop8columns {width: 640px; margin:0 0 0 -11px;}
+.megamenu .drop9columns {width: 720px; margin:0 0 0 -11px;}
+.megamenu .drop10columns {width: 800px; margin:0 0 0 -11px;}
+.megamenu .drop11columns {width: 880px;	margin:0 0 0 -11px;}
+.megamenu .drop12columns {width: 960px;	margin:0 0 0 -11px;}
+
+.megamenu_push .megamenu > li .megamenu_fullwidth {
+	*top:0px;
+}
+.megamenu_scrollbars .megamenu_scroller_container .megamenu_scroll_area {
+	_overflow:hidden;
+	_position:relative;
+}
+.megamenu_scrollbars .megamenu_scroller_container {
+	_overflow-y : scroll;
+}
+.megamenu .col_1, .megamenu .col_2, .megamenu .col_3, .megamenu .col_4, .megamenu .col_5, .megamenu .col_6, .megamenu .col_7, .megamenu .col_8, .megamenu .col_9, .megamenu .col_10, .megamenu .col_11, .megamenu .col_12,.megamenu .megamenu_fullwidth .img_list li {
+	*position:static;
+	_display:inline;
+}
+.megamenu > li .megamenu_fullwidth ol {
+	*margin-left:7px;
+}
+.megamenu .inline_img {
+	_padding:3px;
+}
+.megamenu .form_element {
+	_width:270px;
+}   

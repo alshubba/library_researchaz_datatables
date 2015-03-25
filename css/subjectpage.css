@@ -1,0 +1,55 @@
+/* 
+	TagBox table styles
+	written by TagBox http://www.tagbox.de
+*/
+table {
+  margin-top: 5px;
+  border-collapse: collapse;
+  color: #363636;
+  background: #F0F0F0;
+  }
+table a {
+ text-decoration: none;
+  color: #363636;
+}
+A:link {text-decoration: none; color: #0074BD}
+A:visited {text-decoration: none; color: #0074BD}
+A:active {text-decoration: none; color: #0074BD}
+A:hover {text-decoration: underline; color: #0074BD}
+td{
+  border: 1px dotted #03476F;
+  padding: .6em;
+  color: #363636;
+  }
+.tbody td a {
+  background: transparent;
+  text-decoration: none;
+  color: #363636;
+  }
+tbody td {
+  vertical-align: top;
+  text-align: left;
+  }
+tfoot td {
+  border-bottom: 1px solid #03476F;
+  }
+.odd {
+  background: #AEE239;
+  }
+tbody tr:hover {
+  background: #f0b82d;
+  border: 1px solid #03476F;
+  color: #FFFFFF;
+  }
+tfoot tr:hover {
+  background: #f0b82d;
+  border: 1px solid #03476F;
+  color: #FFFFFF;
+  }
+
+#boxsubjectpageheader { margin: 5px 5px 0px 0px; padding: 9px 6px 10px 7px; border: 1px solid #d1d1d1; height: 20px; color: #333; position:relative; background-color: #0074BD; color: #fff; font-family: 'Rosario', sans-serif; font-size: 18px;  border: 1px solid #03476F;
+ }
+ #boxsubjectpageheader a { color: #fff; }
+.subheading {background-color: #365375; font-weight:bold; font-size:14px; color: #fff;}
+.databasearrow {margin-top: 2px;}
+.subject { color: #365375;}

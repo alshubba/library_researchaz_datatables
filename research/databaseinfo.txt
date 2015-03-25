@@ -1,0 +1,361 @@
+<div id="abiinform" class="speechbubbles">ABI/INFORM Dateline delivers over 255 journals, with more than 200 available in full text. It includes hard-to-find local and regional business publications with news about local companies, analysis, information on local markets, and more. Content covers 1982-present and is updated daily. Contains abstracts, full-text HTML, full-text HTML with graphics, and PDF formats.</div>
+
+<div id="abiglobal" class="speechbubbles">ABI/INFORM Global is one of the most comprehensive business databases on the market. It includes in-depth coverage for over 3,535 publications, with more than 2,495 available in full text. Content covers 1923-present and is updated daily. Contains abstracts, full-text HTML, full-text HTML with graphics, and PDF formats.</div>
+
+<div id="abitrade" class="speechbubbles">ABI/INFORM Trade & Industry is the perfect companion to the business and management content in ABI/INFORM. It includes in-depth coverage of companies, products, executives, trends, and other topics for more than 2,290 publications, with over 2,110 in full-text. Content covers 1975-present and is updated daily. Contains abstracts, full-text HTML, full-text HTML with graphics, and PDF formats.</div>
+
+<div id="asp" class="speechbubbles">Academic Search Premier contains full-text coverage in biology, chemistry, engineering, physics, psychology, religion & theology, and others. Contains indexing and abstracts for more than 8,500 journals, with full text for more than 4,600 of those titles. Coverage is from 1975-present. Updated daily.</div>
+
+<div id="acctax" class="speechbubbles">Accounting & Tax Index (ProQuest) provides centralized access to top journals, reference reports, proceedings, dissertations and more, including over 2,300 publications with hundreds in full-text. Content covers 1905-present and is updated daily. Contains abstracts, full-text HTML, full-text HTML with graphics, and PDF formats.</div>
+
+<div id="accresearch" class="speechbubbles">CCH's Accounting Research Manager® is the most timely and comprehensive online database of expert-written analytical accounting, auditing, governmental, internal controls and SEC information as well as primary source data. Includes  ARM indexes FASB, GASB, SABs, and other accounting and auditing standards.</div>
+
+<div id="acm" class="speechbubbles">The ACM Digital Library (DL) is the most comprehensive collection of full-text articles and bibliographic records covering the fields of computing and information technology. The full-text database includes the complete collection of ACM's publications, including journals, conference proceedings, magazines, newsletters, and multimedia titles.</div>
+
+<div id="agricola" class="speechbubbles">Stands for Agricultural Online Access and is an index to the collections of the National Agricultural Library.  The database covers materials in all formats, including printed works from as far back as the 15th Century.  The database includes publications and resources on all aspects of agriculture, including plant and animal sciences, aquaculture and forestry, food and human nutrition, and earth and environmental sciences. <em>Free resource.</em></div>
+
+<div id="artshuman" class="speechbubbles">Access to scholarly bibliographic and citation information whose focus is on essential data from over 1,395 of the world's leading arts and humanities journals. Accessed via Web of Knowledge. Coverage is from 1975-present. <strong>To search this database from off-campus, users must first create a Web of Knowledge account while on-campus, using a Bentley email address.</strong></div>
+
+<div id="arxiv" class="speechbubbles">arXiv.org is an e-print service in the fields of physics, mathematics, non-linear science, computer science, quantitative biology, quantitative finance and statistics. It is owned, operated, and funded by Cornell University and partially funded by the National Science Foundation. Free resource.</div>
+
+<div id="backgroundnotes" class="speechbubbles">Background Notes are written by the Department of State's regional bureaus and include facts about the land, people, history, government, political conditions, economy, and foreign relations of independent states, some dependencies, and areas of special sovereignty. Free resource.</div>
+
+<div id="banking" class="speechbubbles">Use Banking Information Source to search over 640 of the most authoritative sources of information providing information about the financial services industry, banking, and industry trends. Coverage from 1971-present.</div>
+
+<div id="bibarcha" class="speechbubbles">Biblical Archaeology Society Online Archive provides complete full-text access to Biblical Archaeology Society publications, including Biblical Society Review (BAR), Bible Review (BR), Archaeology Odyssey (AO) and several symposium titles. Browsable by issue date; an advanced search is also provided.</div>
+
+<div id="biocen" class="speechbubbles">BioCentury provides business intelligence on the biotech industry. BioCentury produces weekly newsletters covering stock performance and metrics for biotech companies. The BioCentury Financial Center allows users to track and compare biotech IPOs. <strong>Please contact the Library Reference Desk (781.891.2300) for a username and password to access BioCentury.</strong></div>
+
+<div id="bnaelectronic" class="speechbubbles">BNA Electronic Commerce & Law Report provides national and global perspectives on the digital economy with news of trends and developments, insights and legal expertise. Topics include: copyright, domain name disputes, information licensing, internet-related regulation, online marketing, and privacy issues.</div>
+
+<div id="bnaprivacy" class="speechbubbles">BNA Privacy & Security Law Report provides comprehensive weekly coverage of the latest breaking legal, regulatory, legislative, and judicial news in the privacy and security fields. Topics include: data protection, employee privacy, data breaches, marketing, identity theft, data retention, corporate security, financial privacy, health care privacy, consumer privacy, e-discovery, and more.</div>
+
+<div id="bnatax" class="speechbubbles">BNA Tax Library provides users with online access to expert BNA analysis, tax codes, court cases, and articles and commentary on accounting and tax planning. The "Practice Tools" section includes previous year's tax forms, the Federal Tax Calendar, working papers and tables and charts. Bentley's subscription to the Tax Library includes selected Federal, State and International materials.</div>
+
+<div id="books24x7" class="speechbubbles">Books 24x7 offers full-text books on business, IT and finance. On-campus users must first create an account with Books24x7.com from a Bentley University computer. Off-campus users can access Books24x7.com remotely by using a Bentley University email address and network password. Remote users are logged into the database as anonymous users, and cannot access searches saved in the "My Bookshelf" section.</div>
+
+<div id="buscomp" class="speechbubbles">Search Business and Company Resource Center to find the following detailed company and industry information: profiles, brand information, rankings, investment reports, company histories and chronologies. Also included: articles on finance, acquisitions and mergers, international trade, money management, new technologies and products, local and regional business trends, investments and banking.</div>
+
+<div id="busindex" class="speechbubbles">Business Index ASAP provides indexing, abstracts and full text for business, finance, management and industry periodicals. Users can perform in-depth research on management issues, economic indicators and business theories and practices, as well as on the activities of companies and industries worldwide.</div>
+
+<div id="bsp" class="speechbubbles">Business Source Premier provides full text for more than 2,300 journals, including full text for more than 1,100 peer-reviewed titles. This database includes coverage in all disciplines of business, including marketing, management, management information systems, production and operations management, accounting, finance and economics. Also included are company and industry profiles, SWOT analyses, country reports, and market research reports. This database is updated daily.</div>
+
+<div id="cabell" class="speechbubbles">Cabell's Directories provides information on publishing opportunities in Business, Education, Psychology and Computer Science, covering nine subject areas: Accounting, Economics and Finance, Management, Marketing, Curriculum and Methods, Psychology and Administration, Technology and Library Science, Psychology and Psychiatry and Business Information Systems. Cabell's provides authors and researchers with contact information, submission guidelines, readership, manuscript styles, acceptance rates, and review types. Search indexes include topic area and acceptance rate.</div>
+
+<div id="canadianbus" class="speechbubbles">CBCA Complete provides full-text coverage of more than 600 periodicals and daily news sources, plus indexing for an additional 1,100 titles. Broad coverage from a Canadian perspective spans agriculture, business and economics, education, government and politics, health sciences, history, literature, medical sciences, social sciences, and many more subject areas. In addition to full-text scholarly journals, this database includes full-text e-books, dissertations, and transcripts from the Canadian Broadcasting Corporation. CBCA is updated daily with full-text content (1985 to present) and bibliographic content (1971 to present).</div>
+
+<div id="canadiannews" class="speechbubbles">Canadian Newsstand Complete offers unparalleled access to the full text of nearly 300 newspapers from Canada's leading publishers, including The Globe and Mail. Coverage from 1977-present.</div>
+
+<div id="cch" class="speechbubbles">CCH Intelliconnect provides access to a full range of tax information. Federal tax information includes primary sources, news, explanations and analysis, and Federal tax archives. State tax information includes state tax reporters, practice tools and state tax archives. There is a limit of 20 simultaneous users.</div>
+
+<div id="cinefiles" class="speechbubbles">A great online source of over 45,000 reviews, press kits, festival program notes and similar documents from the collection of the University of California, Berkeley Art Museum and Pacific Film Archive. <em>Free resource.</em></div>
+
+<div id="collegesource" class="speechbubbles">CollegeSource Online is a database of 60,206 digital college catalogs, institution profiles, transcript keys, and other critical resources. Catalogs are provided in PDF format. Also provides a profile of each school, including institution type, Carnegie Classification, enrollment statistics and more.</div>
+
+<div id="commmassmedia" class="speechbubbles">Communication & Mass Media Complete is a research and reference resource of wide scope and depth in communication, mass media and related fields. CMMC offers cover-to-cover indexing and abstracts for more than 570 journals, and selected coverage of nearly 200 more. It also includes full text for over 450 journals.</div>
+
+<div id="conexp" class="speechbubbles">The Consumer Expenditure Survey (CE) provides information on the buying habits of American consumers, including data on their expenditures, income, and household characteristics. The survey data are collected for the Bureau of Labor Statistics by the U.S. Census Bureau. <em>Free resource.</em></div>
+
+<div id="contauth" class="speechbubbles">This database provides complete biographical and bibliographical information and references on all of the more than 120,000 U.S. and international authors whose entries appear in the print publications Contemporary Authors and Contemporary Authors New Revision Series. Includes 20th and 21st century writers in fiction, general nonfiction, graphic novels, poetry, print and media journalism, drama, screenwriting, television scriptwriting, as well as photojournalists and syndicated cartoonists. Updated monthly, Contemporary Authors allows users to search for an author by name, title of work, nationality, date and place of birth and death, subject/genre, personal and career information, awards and honors, and more.</div>
+
+<div id="contlit" class="speechbubbles">Contemporary Literary Criticism--Select is an extensive collection of more than 11,000 critical essays on contemporary authors. Each entry contains a biographical/critical introduction, a list of principal works, critical essays, and sources for further study. Updated monthly, Contemporary Literary Criticism--Select allows users to search by author name, title of work, nationality, subject/genre, ethnicity, critic name, and more.</div>
+
+<div id="countrycomm" class="speechbubbles">*NOTE: Country Commercial Guides (CCGs) are part of Export.gov's "Market Research Library" (select 'Country Commercial Guides' from the Report Type drop-down box). Registration is not required to access the CCGs, but it is required to use other portions of the Export.gov Market Research Library.
+
+Country Commercial Guides (also referred to as "doing business" guides) are published annually by U.S. embassies with the assistance of several U.S. government agencies. These reports present a comprehensive look at countries' commercial environments, using economic, political and market analysis. <em>Free resource.</em></div>
+
+<div id="cqr" class="speechbubbles">Each week, the CQ Researcher examines an issue of compelling public interest. All CQ reports include an abstract, chronology, extensive bibliography and notes, and an outlook. A sidebar includes reports related to the latest topic, and the full text of past reports can be searched via the CQ search function or the cumulative index.</div>
+
+<div id="deloitte" class="speechbubbles">Deloitte publishes two tax series: (1) Taxation and Investment Guides, which provide detailed and comprehensive information about the investment climate, business operating conditions, taxation system and labor environment for more than 40 major trading jurisdictions, and (2) the Highlights Series, which complement the Guides by providing a brief digest of the tax landscape of more than 130 jurisdictions. <em>Free resource.</em></div>
+
+<div id="demonow" class="speechbubbles">DemographicsNow is a comprehensive business and residential research tool. Users can compare the demographics and market potential of United States geographies, produce comprehensive business/residential lists and detailed demographic reports, and utilize a unique mapping tool that ‘visualizes’ trends. </div>
+
+<div id="dictionary" class="speechbubbles">The Dictionary of Literary Biography provides nearly 10,000 biographical and critical essays on the lives, works, and careers of the world's most influential literary figures from all eras and genres. Essays are written by major scholars and provide bibliographic information and criticism of an author's writings, as well as sources for further reading. The DLB also includes essays on literary movements, genres, trends and national literatures. Updates to the database are ongoing as print volumes are published.</div>
+
+<div id="dissert" class="speechbubbles">Dissertations & Theses is the world's most comprehensive collection of dissertations and theses on humanities and social sciences. PQDT includes millions of searchable citations to dissertation and theses from around the world, though largely from the US, covering 1861 to the present day.  Bentley has access to the Humanities and Social Sciences collections.</div>
+
+<div id="doingbusiness" class="speechbubbles">The Doing Business Project provides objective measures of business regulations and their enforcement across 183 economies and selected cities at the subnational and regional level.  For each economy, regulations affecting 9 stages of a business's life are measured to determine their "Ease of Doing Business" ranking: starting a business, dealing with construction permits, registering property, getting credit, protecting investors, paying taxes, trading across borders, enforcing contracts and closing a business. <em>Free resource.</em></div>
+
+<div id="ebsco" class="speechbubbles">The following databases are provided via EBSCOHost:
+-- Academic Search Premier
+-- Business Searching Interface
+-- Business Source Premier 
+-- Communication and Mass Media Complete
+-- EBSCO eBooks
+-- EconLit with Full Text
+-- ERIC (Education Resource Information Center)
+-- GreenFILE
+-- LISTA (Library, Information Science & Technology Abstracts)
+-- MEDLINE
+-- MLA Directory of Periodicals
+-- MLA International Bibliography
+-- PsycARTICLES
+-- Regional Business News</div>
+
+<div id="netlibrary" class="speechbubbles">EBSCO eBooks allows users to search, view and print the full text of nearly 8000 electronic books.</div>
+
+<div id="econlit" class="speechbubbles">EconLit with Full Text contains all of the indexing available in EconLit, plus full text for more than 600 journals. This database also contains many non-English full-text journals in economics & finance. It provides links to full-text articles in all fields of economics, including capital markets, country studies, econometrics, economic forecasting, environmental economics, government regulations, labor economics, monetary theory, urban economics and much more. Volume and issue browsing is available for all full-text journals.</div>
+
+<div id="econpapers" class="speechbubbles">EconPapers provides access to RePEc, the world's largest collection of on-line Economics working papers, journal articles, e-books, book chapters, and software. <strong>Please note that this database does not contain full-text journal articles.</strong> If a working paper or journal article is not indicated as "downloadable", please contact the author, publisher and/or the Bentley University Reference Desk for assistance. <em>Free resource.</em></div>
+
+<div id="elsevier" class="speechbubbles">Elsevier Science Direct -- College Edition offers full-text journal articles from more than 450 peer-reviewed journals in arts and humanities, business, management, accounting, decision sciences, economics, econometrics, finance, psychology, and social sciences.</div>
+
+<div id="eric" class="speechbubbles">The Education Resource Information Center (ERIC) indexes more than 1100 journals (90% of which are peer-reviewed) listed in the Current Index of Journals in Education and Resources in Education Index, as well as conference and policy papers, gray literature, dissertations and theses, and research reports from government agencies and research centers. Can be searched by educational level, intended audience and publication type, among others.</div>
+
+<div id="euromonitor" class="speechbubbles">The Euromonitor Passport Global Market Information Database provides business intelligence on selected Industries, Countries & Consumers, Companies, and Geographies, and comprehensive tools for analysis across datasets. Each category includes in-depth reports, analyst comments, statistics and external sources. New reports, analyses and comments are added daily, while industry reports are updated annually. Historical and forecasted date coverage varies by country, within a broad range of 1977 to 2015.</div>
+
+<div id="expandedasap" class="speechbubbles">Expanded Academic ASAP indexes more than 5,200 periodicals, over half of which are peer-reviewed. More than 3,000 of these offer full-text. Subjects covered include astronomy, religion, law, history, psychology, humanities, current events, sociology, communications, and the general sciences. Coverage from 1980-present.</div>
+
+<div id="exportgov" class="speechbubbles">*NOTE: To access the Market Research Library, students/researchers must first register (free) with Export.gov. Look for the "Register" option at the top of their home page. </br> Export.gov is the U.S. Government's portal to international trade and market research resources. The Market Research Library contains more than 100,000 industry and country-specific market reports, including Country Commercial Guides ("doing business" guides), Market Research Reports and Best Markets Reports.  Export.gov is managed by the U.S. Department of Commerce's Commercial Service in collaboration with other Federal agencies that offer export assistance programs and services. Free resource.</div>
+
+<div id="factiva" class="speechbubbles">Factiva provides full-text editions of newspapers, newswires, magazines and trade journals, including Dow-Jones and Reuters publications. Factiva provides company screening reports and company/industry comparison reports, industry reports, and stock and fund quotes. Content is available in 26 languages.</div>
+
+<div id="fasb" class="speechbubbles">The Codification is the single source of authoritative non-governmental U.S. generally accepted accounting principles (US GAAP). The Codification is effective for interim and annual periods ending after September 15, 2009. All previous level (a)-(d) US GAAP standards issued by a standard setter are superseded. It includes a cross-referencing tool, directing you to the relevant section of the Codification when you have a document number or an older accounting reference.</div>
+
+<div id="filmsdemand" class="speechbubbles">Films on Demand is a digital, streaming video service which offers thousands of educational films on Humanities & Social Science, Business & Economy, Science & Mathematics, and Health topics.  Films on Demand also offers special collections by well known, respected media outlets such as Frontline, CNBC Specials, the Biography Channel, and PBS NewsHour.</div>
+
+<div id="firstsearch" class="speechbubbles">Use OCLC First Search to find citations and summaries of books, journals, articles, films, and other material on your chosen subject. First Search does not provide full text. <strong>Contact the Bentley Library Reference Desk at 781-891-2300 for the password.</strong></div>
+
+<div id="forrester" class="speechbubbles">Forrester Research is an independent technology research company. Forrester analysts provide timely, in-depth information for business, marketing and IT professionals working at the intersection of technology investment and overall business goals.< /br><strong>Students: contact refdesk@bentley.edu or call 781-891-2300 for login credentials.</strong></br> <strong>Faculty and staff: Email refdesk@bentley.edu to request a Forrester account.</strong></div>
+
+<div id="gartner" class="speechbubbles">Gartner Group Resources provides expert analysis and opinion on IT-related topics at the intersection of business and technology. Users can search Gartner’s proprietary research by market area, topic, or industry. Gartner also offers blogs and podcasts. Access to Gartner is via Bentley University email address and network password.</div>
+
+<div id="genbusiness" class="speechbubbles">Analyze company performance and activity, industry events and trends as well as the latest in management, economics and politics. Access to a combination of broker research reports, trade publications, newspapers, journals and company directory listings with full text and images available.</div>
+
+<div id="genreferencecenter" class="speechbubbles">General Reference Center indexes newspapers, reference books, and periodicals, and provides many full-text articles. This database covers current events, popular culture, business, industry, arts, sciences, sports, hobbies, and more.</div>
+
+<div id="geoscience" class="speechbubbles">GeoScience World is a nonprofit corporation formed by a group of leading geoscientific organizations for the purpose of making geoscience research and related information easily and economically available via the Internet. GeoScience World is a comprehensive, easily-accessible, cost-effective online resource for journals in the geological and earth sciences.<em>Free resource.</em></div>
+
+<div id="globalinsight" class="speechbubbles">Global Insight provides continuously updated analysis of general business conditions, economic prospects and risk assessment for 204 countries. Reports include political, economic, regulatory/legal, tax, operational and security considerations, as well as statistical data, charts and graphs.</div>
+
+<div id="googlebooks" class="speechbubbles">Web archive of digitized books provided through a partnership of Google, Libraries and Publishers. <em>Free resource.</em></div>
+
+<div id="greenfile" class="speechbubbles">GreenFILE offers information covering all aspects of human impact to the environment. Its collection of scholarly, government and general-interest titles includes content on global warming, green building, pollution, sustainable agriculture, renewable energy, recycling, and more.</div>
+
+<div id="hoovers" class="speechbubbles">Hoover's™ Company Profiles features profiles of more than 40,000 companies, 600 industries, and 225,000 key executives.</div>
+
+<div id="ibis" class="speechbubbles">The Library provides access to the Industry Market Research section of IBIS World, which includes comprehensive industry reports for over 700 U.S. Industries. Searchable by NAICS code or keyword.</div>
+
+<div id="ieee" class="speechbubbles">IEEE Digital Library offers full-text access to 28 peer-reviewed IEEE magazines, journals (in some cases, including preprints) and more than 1500 conference publications and proceedings. Documents are available in HTML and PDF formats. Content ranges from the 1970s to the present, depending on the publication.</div>
+
+<div id="infotrac" class="speechbubbles">The following databases are provided via InfoTrac:
+-- Expanded Academic ASAP
+-- Business and Company Resource Center
+-- Business Index ASAP
+-- Gale Virtual Reference Library
+-- General Business File ASAP
+-- Contemporary Authors
+-- Contemporary Literary Criticism-Select
+-- Dictionary of Literary Biography
+-- General Reference Center
+-- Predicast PROMT</div>
+
+<div id="intbusiness" class="speechbubbles">Find in-depth profiles on over three million international companies, including key executive and detailed financial information. Selection criteria include business name, executive name, sales volume, assets, number of employees, geography, and more.</div>
+
+<div id="intstats" class="speechbubbles">Compiled by the U.S. Census, this site provides links to the official statistical agency for every country in the world (note: some sites may not provide content in English). <em>Free resource.</em></div>
+
+<div id="imdb" class="speechbubbles">The preeminent website for film and television information. This indispensable resource provides full cast, crew and award information, plot summaries, photos, links to official websites and external reviews, and users' ratings and comments. <em>Free resource.</em></div>
+
+<div id="jcr" class="speechbubbles">Journal Citation Reports provides ISI Impact factors, rankings, and half-lives for journals indexed by the Web of Science Annual data from 2001 onward. <strong>To search this database from off-campus, users must first create a Web of Knowledge account while on-campus, using a Bentley email address.</strong> <em>Free resource.</em></div>
+
+<div id="jstor" class="speechbubbles">JSTOR provides full-text PDF access to almost 700 scholarly journals in Arts and Sciences and Business. The database is searchable by keyword, item type, publication title, and language, and browsable by discipline and journal issue. Each journal has an individual "moving wall" date of available content; the date range is zero to five years previous to the current year, depending on the journal.</div>
+
+<div id="jstorhealth" class="speechbubbles">The JSTOR Health and General Sciences Collection features over 60 important historical scientific journals and top publications in the health sciences, offering published scientific research dating as far back as 1665. The collection includes publications of the Royal Society of London, which extend back to the 17th century, and Proceedings of the National Academy of Science, which dates from the early 20th century. A cluster of titles in nursing and epidemiology is also available. There is no overlap with the Arts & Sciences or Business collections.</div>
+
+<div id="lexisnexis" class="speechbubbles">Lexis-Nexis Academic is a collection of full-text database files covering the subject areas of law, business and current events. Users may search news sources including regional, national, foreign, and international publications and wire services; research state and federal cases by topic, involved parties, or citation; search law reviews; search company profile and dossier information by company name or ticker symbol; research country profiles, risk information, and news; or search for biographical and news information on public figures. In addition to searching within these individual modules, users may combine module elements, or use a directory browse structure to customize searches by source type.</div>
+
+<div id="lmaa" class="speechbubbles">LMAA offers datasets and analyses related to demographics, consumer behavior and market segmentation, using variables including the industry-standard Designated Market Area (DMA), a designation that roughly corresponds to the federal Statistical Metropolitan Area.</div>
+
+<div id="libcong" class="speechbubbles">A growing repository of digitized materials from the Library of Congress, featuring photographs, manuscripts, films, sound recordings, and newspapers, as well as archived websites. "One of the largest bodies of noncommercial high-quality content on the Internet." <em>Free resource.</em></div>
+
+<div id="lista" class="speechbubbles">Library, Information Science & Technology Abstracts (LISTA) indexes more than 560 core journals, nearly 50 priority journals, and 125 selective journals; plus books, research reports and proceedings. Subject coverage includes librarianship, classification, cataloging, bibliometrics, online information retrieval, information management and more. Coverage in the database extends back as far as the mid-1960s.</div>
+
+<div id="sage" class="speechbubbles">This collection includes 56 peer-reviewed journals published by SAGE and participating societies, with access to content from January 1999 to the present. Subject coverage includes: organizational behavior, organizational development, strategic management, organizational theory, industrial psychology, human resource management, business ethics, corporate social responsibility, environmental management, leadership, group processes, organizational communication, management learning, management education, training, industrial relations, labor economics, international and cooperative management, entrepreneurship, small business management, e-commerce, non-profit management, compensation and benefits, environmental management, service organizations, hospitality, travel, tourism, marketing, macromarketing, social marketing, marketing education, marketing theory, service marketing, sociology of work, business and government relations, critical theory, simulation, action research, research design, and research methodologies.</div>
+
+<div id="mathscinet" class="speechbubbles">MathSciNet is the major search tool for journal articles on mathematics and statistics topics. Created and maintained by the American Mathematical Society, it includes subject indexing of recent and forthcoming mathematical publications, as well as reviews or summaries of articles and books that contain new contributions to mathematical research.</div>
+
+<div id="massnewstand" class="speechbubbles">The Boston Globe (ProQuest) (formerly Massachusetts Newsstand) is a selection of Massachusetts newspapers, with detailed indexing on news topics, companies, people, products, and geographic areas. Includes the Boston Globe, the Boston Herald, the Quincy Patriot-Ledger, and the Worcester Telegram & Gazette, among others. Coverage is from 1980-present. </div>
+
+<div id="mediamark" class="speechbubbles">Mediamark Reporter, a collection of local and national market datasets, offers comprehensive demographic, lifestyle, product usage, and media data via summary tables. MRI+ provides basic and extended information on more than 2,500 consumer and trade magazines with additional data from popular industry sources. Also included is marketing, comparative and merchandising information supplied by publishers.<strong>New users must register for an account with a Bentley University e-mail address.</strong></div>
+
+<div id="medline" class="speechbubbles">MEDLINE provides authoritative medical information on medicine, nursing, dentistry, veterinary medicine, the health care system, pre-clinical sciences, and much more. Created by the National Library of Medicine, MEDLINE enables users to search citations from over 4,800 current biomedical journals.</div>
+
+<div id="mergentarchives" class="speechbubbles">Access more than 85 years of Annual Reports for companies across the globe through Mergent Archives' historical annual report collection.</div>
+
+<div id="mintel" class="speechbubbles">Mintel offers market research reports covering U.S. and International marketplaces. Each report combines data and analysis of the competitive landscape, market share analysis and consumer profiles. <strong>New users must register for an account with a Bentley University e-mail address.</strong></div>
+
+<div id="mla" class="speechbubbles">The MLA Directory of Periodicals offers detailed information on over 5,500 journals, with 4,400 currently indexed in the MLA International Bibliography. Entries list scope statements, frequency of publication, submission guidelines, peer review, and statistics on how many articles and book reviews the periodicals publish each year, as well as how many are submitted.</div>
+
+<div id="mlaintbio" class="speechbubbles">MLA International Bibliography offers a detailed bibliography of journal articles, books and dissertations. Produced by the Modern Language Association, coverage dates back to the early 1900s and contains over 2.3 million citations from more than 4,400 journals & series and 1,000 book publishers. Coverage is international in scope and includes links to the full text of articles where available.</div>
+
+<div id="morningstar" class="speechbubbles">Morningstar covers all stocks traded on the NYSE, NASDAQ, and AMEX, and nearly 14,000 mutual funds -- nearly 20,000 securities in all. Morningstar Investment Research Center contains powerful screener tools and detailed financial information on stocks, funds, and exchange-traded funds (ETFs), analyst reports for 1,000 stocks and 2,000 funds including buy and sell directions, market sector and industry reports, portfolio management tools, and more.</div>
+
+<div id="natleduc" class="speechbubbles">Government website from The National Center for Education Statistics (NCES). NCES is the primary federal entity for collecting and analyzing data related to education in the U.S. and other nations. <em>Free resource.</em></div>
+
+<div id="natljournal" class="speechbubbles">Washington-based news magazine that covers politics, the White House, Congress, domestic policy and national security. <em>Free resource.</em></div>
+
+<div id="nber" class="speechbubbles">The National Bureau of Economic Research (NBER) Working Papers are intended to make results of NBER research available to other economists in preliminary form to encourage discussion and suggestions for revision before final publication. Search working papers and books by author/title, full-text keyword, meeting date, or NBER program area. Also included are U.S. Business Cycle Expansion and Contraction (recession) data from 1854 to the present.</div>
+
+<div id="nyt" class="speechbubbles">Search the New York Times for top news stories and detailed information on the arts, sports, business, and popular culture.  Editorials, editorial cartoons, obituaries, and letters to the editor from well-known people are also indexed. Coverage is from June 1980-present.</div>
+
+<div id="nythistoric" class="speechbubbles">New York Times Historical (1851 - 2007) offers full page and article images with searchable full text back to the first issue. The collection includes digital PDF reproductions providing access to every page from every available issue. Coverage: Sept 18,1851-Dec 31, 2007.</div>
+
+<div id="oecd" class="speechbubbles">OECD (Organisation for Economic Co-operation and Development) publishes economic surveys, comparative statistics, regular outlooks and annual overviews for its 34 member countries and some major additional countries. <em>Free resource.</em></div>
+
+<div id="oxfordart" class="speechbubbles">Oxford Art Online (formerly Grove Art Online) comprises the full text of the 34-volume Dictionary of Art, 1996; the Oxford Companion to Western Art, 2001; other specialized Grove and Oxford art encyclopedias; and new and revised articles, updated three times per year. Contains more than 1,500 thumbnail art images with links to searchable image databases and over 40,000 art images on museum and gallery web sites from around the world. Searchable and browsable; indexes include biography, subject, image, and bibliography.</div>
+
+<div id="oxfordenglish" class="speechbubbles">The Oxford English Dictionary (OED) provides the authoritative spellings, etymology and definitions for more than 500,000 words. The OED also traces word usage from first recorded occurrence to the modern period with more than 2.5 million quotations from a wide range of language sources. Search and browse by subject, part of speech, language of origin, region, and more.</div>
+
+<div id="overdrive" class="speechbubbles">Overdrive provides downloadable eBooks and audiobooks for use with computers, tablets, e-readers, smartphones, mp3 players and iPods.</div>
+
+<div id="pharma" class="speechbubbles">Pharmaceutical News Index contains bibliographic information and indexing for 22 key U.S.and international pharmaceutical, healthcare, biotechnology, medical device, and cosmetic industry newsletters. Coverage from 1974-present.</div>
+
+<div id="plunkett" class="speechbubbles">Plunkett Research Online (PRO) offers industry/market trends and statistics for 28 unique industry groupings, company profiles, a directory of professional organizations, and information useful for job searching. Users also can search and print Plunkett's proprietary Industry Almanacs. Data is updated weekly and easily printable. Thousands of company profiles can be searched by company name or keywords.</div>
+
+<div id="muse" class="speechbubbles">Project MUSE provides full-text access to current content from over 400 titles representing nearly 100 not-for-profit publishers. MUSE offers articles in full text (HTML and PDF formats), in a variety of subject areas including economics, education, film, history, literature, philosophy, politics, religion, women's studies and more. Journals can be searched by title, discipline, or collection. Users can also search within the full text of articles or by subject, author, or title.</div>
+
+<div id="prompt" class="speechbubbles">Use the Predicast Overview of Markets and Technology (PROMT) database to research companies, the products and technologies they produce, and the markets in which they compete. Includes summaries and full text from nearly 1,000 business and trade journals, industry newsletters, newspapers, market research studies, news releases, and investment and brokerage firm reports. Coverage is from 1999-present.</div>
+
+<div id="proquest" class="speechbubbles"><strong>Scope:</strong>The following databases are provided via ProQuest:
+
+-- ABI/Inform Dateline
+-- ABI/Inform Global
+-- ABI/Inform Trade & Industry
+-- Accounting & Tax Index
+-- Banking Information Source
+-- CBCA (Canadian Business and Current Events) Complete
+ -- Canadian Newsstand Complete
+-- Dissertations & Theses: The Humanities and Social Sciences Collection
+-- Hoover's Company Profiles
+-- Massachusetts Newsstand
+-- New York Times Historical (1851 - 2007)
+-- Pharmaceutical News Index
+-- ProQuest Asian Business and Reference
+-- ProQuest Biology Journals
+-- ProQuest Career and Technical Education
+-- ProQuest Central
+-- ProQuest Computing
+-- ProQuest Criminal Justice
+-- ProQuest Education Journals
+-- ProQuest European Business Journals
+-- ProQuest Family Health
+-- ProQuest Health and Medical Complete
+-- ProQuest Military Collection
+-- ProQuest Newsstand
+-- ProQuest Nursing and Allied Health Source
+-- ProQuest Psychology Journals
+-- ProQuest Religion Journals
+-- ProQuest Research Library
+-- ProQuest Science Journals
+-- ProQuest Social Science Journals
+-- ProQuest Telecommunications Journals</div>
+
+<div id="proquestasian" class="speechbubbles">ProQuest Asian Business and Reference offers detailed information on companies, economies, markets, and overall business conditions throughout the Eastern Hemisphere. Coverage is from 1972-present.</div>
+
+<div id="proquestbio" class="speechbubbles">ProQuest Biology Journals™ provides access to a wide range of biology topics. The database includes over 415 titles, with more than 360 available in full text. Coverage is from 1992-present.</div>
+
+<div id="cartech" class="speechbubbles">ProQuest Career and Technical Education includes over 750 titles, with more than 650 available in full text. Students, professionals, professors and counselors can use the database to research virtually any career, including computing science, healthcare, building trades, auto mechanics, sales and retail, accounting, graphic design, photography, and nursing.</div>
+
+<div id="proquestcentral" class="speechbubbles">ProQuest Central is the largest multidisciplinary database with over 11,000 titles, with over 8,000 titles in full-text. It serves as the central resource for researchers at all levels in all markets. Over 160 subjects areas are covered extensively in this product including business and economics, health and medical, news and world affairs, technology, social sciences and more. Coverage is from 1905-present.</div>
+
+<div id="proquestcomputing" class="speechbubbles">ProQuest Computing is the premium resource for those who need access to comprehensive coverage of computer topics. The database includes over 510 titles, with over 400 available in full text. Coverage is from 1990-present and updated daily. Contains abstracts, full-text HTML, full-text HTML with graphics, and PDF formats.</div>
+
+<div id="criminal" class="speechbubbles">Comprehensive collection of U.S. and international criminal justice journals including information for professionals in law enforcement, corrections administration, drug enforcement, rehabilitation, family law, and industrial security.</div>
+
+<div id="proquesteducation" class="speechbubbles">ProQuest Education Journals gives users access to over 900 top educational publications, including more than 600 of the titles in full text. Coverage is from 1981-present.</div>
+
+<div id="proquesteuropean" class="speechbubbles">This database contains citation data and/or full text from 180 journals containing the latest European business and financial information. Includes resources such as The Economist.com, Fortune and European Business Journal. Coverage is from 1971-present.</div>
+
+<div id="proquestfamhealth" class="speechbubbles">From sports injuries to women's health, nutrition to midwifery, eye care to dentistry, ProQuest Family Health includes abstracts and full-text articles on important health issues from respected medical journals and consumer news magazines alike. Coverage is from 1987-present.</div>
+
+<div id="proquesthealth" class="speechbubbles">ProQuest Health and Medical Complete provides in-depth coverage from over 1,900 publications with over 1,575 available in full text and of these, over 910 include MEDLINE® indexing. Coverage is from 1986-present.</div>
+
+<div id="proquestmilitary" class="speechbubbles">ProQuest Military Collection™ includes over 600 titles across all government and military branches, with more than 415 available in full-text. Coverage is from 1991-present.</div>
+
+<div id="proquestnews" class="speechbubbles">An online gateway to over 850 newspapers, including over 575 full-text titles, and many with backfiles dating back to the 1980s and 1990s.  The core of the database includes international, national and regional papers such as The New York Times, The Wall Street Journal, USA Today, Washington Post, The Guardian, El Norte, Jerusalem Post, and South China Morning Post. Also includes Massachusetts newspapers.</div>
+
+<div id="proquestnursing" class="speechbubbles">Provides users with reliable healthcare information including nursing, allied health, alternative and complementary medicine.  ProQuest Nursing & Allied Health Source includes abstracts to more than 1,050 titles, with over 875 titles in full-text, plus more than 12,300 full text dissertations representing the most rigorous scholarship in nursing and related fields.  Coverage 1986 - present.</div>
+
+<div id="proquestpsychology" class="speechbubbles">ProQuest Psychology Journals indexes 300 academic journals in psychology and related fields. Updated daily, the database includes abstracts, full-text HTML, full-text HTML with graphics, and PDF formats.</div>
+
+<div id="proquestreligion" class="speechbubbles">ProQuest Religion includes more than 150 journals covering formal theological studies and commentary on topics of general interest from the perspectives of many worldwide religions. In addition, there are many titles from religious publishing bodies and nondenominational organizations. The content is scholarly in nature, and most resources are available in full text.</div>
+
+<div id="proquestresearch" class="speechbubbles">ProQuest Research Library enables users to search periodicals for both peer-reviewed and popular information on a broad range of general reference subjects including arts, business, humanities, social sciences, and the sciences. Indexing includes citations/abstracts, full-text HTML, full-text HTML with graphics, and PDF formats. Updated daily.</div>
+
+<div id="proquestscience" class="speechbubbles">ProQuest Science Journals covers both the applied and general sciences with nearly 1000 journals available in full-text, providing access to journal articles and including accompanying charts, diagrams, graphs, tables, photos, and other graphical elements.</div>
+
+<div id="proquestsocialscience" class="speechbubbles">ProQuest Social Science Journals includes over 535 titles, with more than 310 available in full text. Disciplines represented range from anthropology, sociology, political science to communication, education, criminology, demography, economics and more.</div>
+
+<div id="proquesttelecomm" class="speechbubbles">This database contains more than 290 telecommunications industry publications, including magazines, journals and newsletters. Among the topics covered are computer applications, data communications and data transmission systems, electronic data processing, and information science and information theory.</div>
+
+<div id="psyc" class="speechbubbles">PsycARTICLES, from the American Psychological Association (APA) and provided by EBSCOHost, is a definitive source of full-text, peer-reviewed scholarly and scientific articles in psychology. The database contains over 150,000 articles from nearly 80 journals published by the APA, and its imprint the Educational Publishing Foundation (EPF), and from allied organizations including the Canadian Psychology Association and Hogrefe Publishing Group.</div>
+
+
+<div id="pubmed" class="speechbubbles">PubMed is a free resource that is developed and maintained by the National Center for Biotechnology Information at the U.S. National Library of Medicine.  PubMed comprises over 21 million citations for biomedical literature from MEDLINE, life science journals, and online books. <em>Free resource.</em></div> 
+
+<div id="referenceusa" class="speechbubbles">The ReferenceUSA database contains detailed company descriptions, corporate family trees, management directories, and competitor information for more than 20 million U.S. businesses. ReferenceUSA enables users to conduct a custom search to help identify and compare companies. Custom search options include business type, geography, business size and ownership type.</div>
+
+<div id="refworks" class="speechbubbles">RefWorks is an online research management, writing and collaboration tool designed to help researchers easily gather, manage, store and share all types of information, as well as generate citations and bibliographies. <strong>New users must register for an account with a Bentley University e-mail address.</strong></div>
+
+<div id="regionalbusiness" class="speechbubbles">This database provides comprehensive full text coverage for regional business publications. Regional Business News incorporates coverage of more than 80 regional business publications covering all metropolitan and rural areas within the United States. </div>
+
+<div id="repec" class="speechbubbles">Research Papers in Economics (RePEc) is the world's largest collection of on-line Economics working papers, journal articles and software. <strong>Please note that RePEc does not contain full-text journal articles.</strong> If a working paper or journal article is not indicated as "downloadable", please contact the author, publisher and/or the Bentley University Reference Desk for assistance. <em>Free resource.</em></div>
+
+<div id="ria" class="speechbubbles">RIA Checkpoint offers tax professionals advanced research and analysis tools. Checkpoint provides authoritative and up-to-date research and editorial analysis on legislation and ever-changing taxation issues. Practice areas include Federal, State and Local, Estate Planning, Pensions and Benefits, International, and Payroll. Users can search by citation for codes and regulations, cases, rulings, and IRS publications. Also includes calculators for business and personal investments.</div>
+
+<div id="routledge" class="speechbubbles">The Routledge Encyclopedia of Philosophy offers online access to more than 2,000 entries from respected scholars and philosophers. In addition to these entries, REP Online provides links to other editorially reviewed websites. REP Online covers a large breadth of subject matter, including Anglo-American, ethical and political, cross-cultural, interdisciplinary, continental, and contemporary philosophy.</div>
+
+<div id="safari" class="speechbubbles">Safari Books Online: Tech Books provides users with access to more than 100 electronic books on technology and digital media topics, including titles from O'Reilly Press. Users can search for authors, subjects, or publishers. To see the titles to which Bentley subscribes, click the “View All Titles” button.</div>
+
+<div id="sagesocio" class="speechbubbles">This collection includes 49 peer-reviewed journals published by SAGE and participating societies, access to content from January 1999 to the present. This collection covers such subjects as Childhood, Contemporary Sociology, Comparative Sociology, Consumer Culture, Classical Sociology, Ethnic Studies, Gender Studies, Leisure Studies, Social Theory, Sociology of Sport, and Sociology of Work and Employment (Labor Studies).</div>
+
+<div id="scicitation" class="speechbubbles">Science Citation Index Expanded indexes over 6,650 of the world's leading scientific and technical journals across 150 disciplines. Search by topics, authors, sources titles, author address, cited author, cited work and cited year. Coverage from 1977-present. Many citations include abstracts. <strong>To search this database from off-campus, users must first create a Web of Knowledge account while on-campus, using a Bentley email address.</strong></div>
+
+<div id="scirus" class="speechbubbles">Scirus is a comprehensive science-specific search, focusing only on Web pages containing scientific content. With over 400 million scientific items indexed, Scirus searches not only web information, but also preprint servers, digital archives, repositories and patent and journal databases.<em>Free resource.</em></div>
+
+<div id="ssci" class="speechbubbles">Social Science Citation Index is a multidisciplinary database that indexes thousands of scholarly journals by topics, authors, sources titles, author address, cited author, cited work and cited year. Coverage from 1956-present. Some citations include abstracts.<strong>To search this database from off-campus, users must first create a Web of Knowledge account while on-campus, using a Bentley email address.</strong></div>
+
+<div id="sbrnet" class="speechbubbles">SBRnet is an online international sport marketing and business information provider focusing on sport participation, fan profiles, sports facilities, sport finance, sporting goods, sponsorship, marketing, media, and directions.</div>
+
+<div id="sp" class="speechbubbles">Standard & Poor's Net Advantage provides access to S&P's Company and Industry Surveys, Stock Guides, Dividend Records, Mutual Fund Ratings, Corporation Records and much more. Industry surveys are updated twice yearly and provide key data on more than 50 industries from Health Care to Telecommunications.</div>
+
+<div id="srds" class="speechbubbles">SRDS provides directories, current advertising rates and market analysis for domestic and international media types including print, digital, broadcast, newspaper and direct marketing via Advertising Source; datasets and analyses related to demographics, consumer behavior and market segmentation via Local Market Audience Analyst; and tools for media campaign planning.</div>
+
+<div id="statabs" class="speechbubbles">Government website providing data from the Census Bureau, Bureau of Labor Statistics, Bureau of Economic Analysis, and many other Federal agencies and private organizations. The Statistical Abstract of the United States, published since 1878, is the authoritative and comprehensive summary of statistics on the social, political, and economic organization of the United States. Ceased publication in 2011, but archived data will continue to be available. <em>Free resource.</em></div>
+
+<div id="taxanalyst" class="speechbubbles">TaxAnalysts Research Libraries provides federal, state and international tax news and analysis. Research Tools include the Federal Research Library, IRS Written Determinations and U.S. Court Opinions. Also included is information on international transfer pricing and worldwide tax treaties. Archives include documents from 1987-present, and are browsable and searchable.</div>
+
+<div id="thomson" class="speechbubbles">ThomsonOne provides corporate reports and company financials, including 10-Ks, 10-Q's, tear sheets, stock quotes, and daily, weekly and monthly stock graphs from 1995 to the present. Search for company information on companies publicly traded on the major U.S. stock exchanges by ticker symbol or company name. Search results can be returned in .pdf, .xls, .doc and .html formats. De-listed companies are not included in the database.</div>
+
+<div id="ulrichsweb" class="speechbubbles">Ulrichsweb is an easy to search source of detailed information on more than 900 subject areas in 300,000 periodicals (also called serials) of all types: academic and scholarly journals, e-journals, peer-reviewed titles, popular magazines, newspapers, newsletters, and more. Ulrich's records provide data points such as ISSN, publisher, ordering details, subscription price, language, subject, abstracting & indexing coverage, full-text database coverage, tables of contents, and reviews written by librarians.</div>
+
+<div id="uscensus" class="speechbubbles">The U.S. Census conducts hundreds of demographic and economic surveys. Data from the following surveys and censuses are available via the U.S. Census' portal, "American FactFinder":
+-- The Decennial Census
+-- The American Community Survey
+-- The Puerto Rico Community Survey
+-- The Economic Census
+-- The Population Estimates Program
+-- Annual Survey of Manufactures
+-- County Business Patterns
+-- Nonemployer Statistics
+<em>Free resource.<em></div>
+
+<div id="undata" class="speechbubbles">Official statistics, estimates and projections produced by countries and compiled by the United Nations data system. Domains covered are agriculture, crime, education, energy, industry, labor, national accounts, population and tourism. You can also find indicators such as Millennium Development Goals. <em>Free resource.</em></div>
+
+<div id="valueline" class="speechbubbles">ValueLine Historical Reports provides access to ValueLine company reports from 1997 to the present. Reports can be searched by ticker symbol or company name, and report date.</div>
+
+<div id="valuelineresearch" class="speechbubbles">The ValueLine Research Center includes online access to ValueLine's full-page and summary data reports covering stocks, mutual funds, options and convertible securities as well as our proprietary special situation stocks. In addition, the database includes free delayed stock quotes, company news, extensive graphing, market updates, portfolio tracking with alerts, Value Line Analyst Supplements in real time and educational programs.</div>
+
+<div id="wsj" class="speechbubbles">Full text coverage of the Wall Street Journal from 1984-present.</div>
+
+<div id="wajhistoric" class="speechbubbles">The Wall Street Journal Historical (1889 - 1990) offers full page and article images with searchable full text back to the first issue. The collection includes digital reproductions providing access to every page from every available issue. Coverage: July 8, 1889-Dec 31, 1993.</div>
+
+<div id="westlaw" class="speechbubbles">Westlaw Campus includes the laws and statutes of the federal government and all 50 states. All precedent-setting court decisions of the federal and state courts from the National Reporter System® are also included in the database. The KeyCite® tool enables users to research whether a case, statute, or regulation is still good law. Reference resources in Westlaw Campus include American Law Reports, American Jurisprudence, and articles from hundreds of leading law reviews and journals.</div>
+
+<div id="wdi" class="speechbubbles">Updated quarterly, World Development Indicators Online (WDI) provides direct access to more than 700 development indicators with time series for 208 countries and 18 country groups from 1960 to 2010, where data are available.</div>
+
+<div id="worldfact" class="speechbubbles">Produced by the Central Intelligence Agency (CIA), the World Factbook provides information on the history, people, government, economy, geography, communications, transportation, military, and transnational issues for 267 world entities. <em>Free resource.</em></div>
+
+<div id="worldnewsdig" class="speechbubbles">This unique archival record of domestic and international news covers all major political, social, and economic events since November 1940. World News Digest is updated twice weekly and includes a searchable hourly newsfeed. Its internal hyperlinks allow researchers to follow a story ahead in time and back in time, and lead to just the background information they need to understand its significance.</div>
+
+<div id="worldpolitical" class="speechbubbles">Worldwide Political Science Abstracts provides citations, abstracts and indexing of the international serials literature in political science and its complementary fields, including international relations, law, and public administration/policy. Coverage is from 1975-present.</div>

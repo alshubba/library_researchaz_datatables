@@ -1,0 +1,76 @@
+div.speechbubbles{
+background-color:#d1d1d1; /*background color of tooltip*/
+border:1px solid black;
+position:absolute;
+top:0;
+z-index:100;
+visibility:hidden;
+line-height:1.3em;
+padding:8px;
+padding-top: 30px;
+width:450px; /*default width of tooltip*/
+
+
+}
+
+
+
+div.speechbubbles div.speechbubbles-arrow{  /*shared CSS for arrow DIV (upwards pointing)*/
+border-color: transparent transparent #EDEDED transparent; /*border color should be same as div.speechbubbles background color*/
+border-style: solid;
+border-width: 10px;
+height:0;
+width:0;
+position:absolute;
+top:-19px;
+left:20px;
+z-index:101;
+_display:none; /*IE hack to hide arrow in IE6*/
+}
+
+div.speechbubbles div.speechbubbles-arrow-border{ /*shared CSS for arrow border DIV*/
+border-color: transparent transparent black transparent; /*border color should be same as div.speechbubbles border color*/
+border-style: solid;
+border-width: 10px;
+height:0;
+width:0;
+position:absolute;
+top:-20px;
+left:20px;
+z-index:101;
+_display:none; /*IE hack to hide arrow in IE6*/
+}
+
+
+div.downversion div.speechbubbles-arrow{ /*down arrow DIV specific CSS*/
+border-color: #EDEDED transparent transparent transparent; /*border color should be same as div.speechbubbles background color*/
+top:auto;
+bottom:-19px;
+}
+
+
+div.downversion div.speechbubbles-arrow-border{ /*down arrow border DIV specific CSS*/
+border-color: black transparent transparent transparent; /*border color should be same as div.speechbubbles border color*/
+top:auto;
+bottom:-20px;
+}
+
+.close{
+	cursor: pointer;
+	position: absolute;
+	top:0px;
+	left:415px;
+	
+	
+}
+
+.close:hover{
+	color: #d1d1d1;
+	background: black;
+	border-radius: 5px;
+}
+
+
+
+
+

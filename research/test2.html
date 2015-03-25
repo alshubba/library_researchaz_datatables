@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<script type="text/javascript" src="../js/Tooltip.js">
+
+/***********************************************
+* Drop Down/ Overlapping Content- © Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+<link rel="stylesheet" href="../js/Tooltip.css" type="text/css" media="screen">
+
+</head>
+
+<body>
+<span class="tooltip" onmouseover="tooltip.add(this,
+    'demo2_tip')">Hover me</span> 
+<div id="demo2_tip" style="display:none;">
+     The content is taken from the inner HTML of an element on the page. 
+     So this approach of setting tooltip content is <b>SEO friendly</b>
+     (search engine friendly).
+</div>
+
+
+<img src="../img/info.png" onmouseover="this.position=3; ajax5.context.index=0;
+    tooltip.ajax(this, 'products.xml', ajax5);" />
+<img src="../img/info.png" onmouseover="this.position=0; ajax5.context.index=2;
+    tooltip.ajax(this, 'products.xml', ajax5);" />
+<img src="tooltips-cd3.jpg" onmouseover="this.position=2; ajax5.context.index=3;
+    tooltip.ajax(this, 'products.xml', ajax5);" />
+<img src="tooltips-cd4.jpg" onmouseover="this.position=1; ajax5.context.index=4;
+    tooltip.ajax(this, 'products.xml', ajax5);" />
+
+//Following is the Javascript:
+<script type="text/javascript">
+    var ajax5 = {
+        context: { index: -1 },
+        success: callback5,
+        responseType: "xml"
+    };
+    function callback5(response, context) {
+        var x = response.documentElement.getElementsByTagName("cd")[context.index];
+        var title = x.getElementsByTagName("title")[0].childNodes[0].nodeValue;
+        var artist = x.getElementsByTagName("artist")[0].childNodes[0].nodeValue;
+        var price = x.getElementsByTagName("price")[0].childNodes[0].nodeValue;
+        var image = context.index
+        return "<div style='width:220px;'>" + image + "<b>" + title + "</b><br /><i>"
+        + artist + "</i><br /><br />Price: <span class='red'>$" + price + "</span></div>";
+    }
+</script>
+
+</body>
+</html>

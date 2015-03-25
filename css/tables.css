@@ -1,0 +1,83 @@
+﻿/* ********************************
+   Project: CSS Table Galery
+   Title: Like Adwords
+   Author: Cleiton Francisco
+   URL: http://www.cleiton.net/
+   Country: Brazil
+   Update: 2005-12-18
+ ****************************** */
+table.dlist {
+	border-collapse: collapse;
+	border: 1px solid #336699;
+	color: #000;
+	background: #fff;
+	width:675px;
+}
+th.dlist {
+	vertical-align:text-bottom;
+}
+
+td.dlist, th.dlist {
+	border: 1px solid #e0e0e0;
+	padding: 0.5em;
+}
+thead th.dlist {
+	border: 1px solid #e0e0e0;
+	text-align: left;
+	font-size: 12px;
+	font-weight: bold;
+	background: #666;
+	color:#FFFFFF;
+	vertical-align:text-bottom;
+	font-size:14px;
+}
+tfoot th.dlist, tfoot td.dlist {
+	border: 1px solid #e0e0e0;
+	text-align: left;
+	font-size: 1em;
+	background: #e8e8cf;
+}
+tfoot th.dlist {
+	font-weight: bold;
+}
+tbody td.dlist a {
+	background: transparent;
+	color: #336699;
+	text-decoration: underline;
+}
+tbody td.dlist a:hover {
+	background: transparent;
+	color: #AC4209;
+	text-decoration: underline;
+}
+tbody th.dlist a {
+	background: transparent;
+	color: #3f7c5f;
+	text-decoration: underline;
+	font-weight: bold;
+}
+tbody th.dlist a:visited {
+	color: #b98b00;
+}
+tbody th.dlist, tbody td.dlist {
+	vertical-align: bottom;
+	text-align: left;
+}
+tfoot td.dlist {
+	border: 1px solid #996;
+}
+tbody tr.dlist:hover {
+	background: #d8d8d8;
+}
+
+.userloancat {
+	text-align: right;
+	background-color:#693;
+	padding: 5px;
+	color: #fff;
+}
+.userloanpatron {
+	background-color: #398EB9;
+	color: #fff;
+	padding: 3px;
+}

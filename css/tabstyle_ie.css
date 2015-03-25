@@ -1,0 +1,11 @@
+	.tab_container {
+		border: 1px solid #e1e1e1;
+		border-top: none;
+		clear: both;
+		float: left; 
+		width: 95%;
+		background: #FFFFFF;
+		height: 180px;
+		font-family: helvetica,arial,sans-serif;
+		color: #666666;
+	}
