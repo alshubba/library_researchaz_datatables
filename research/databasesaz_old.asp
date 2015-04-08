@@ -19,18 +19,14 @@
 <link rel="stylesheet" href="../css/subjectpage.css" type="text/css" media="screen">
 
 <script type="text/javascript" src="../js/jquery.js"></script>
+	
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-<script> $113 = jQuery.noConflict();</script>
+<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>-->
 
 <!-- Data Tables CSS and JS Files -->
 <link rel="stylesheet" type="text/css" href="../css/jquery.dataTables.min.css">
 <script type="text/javascript" src="../js/jquery.dataTables.min.js"></script>
-
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js">
-</script>
-
-
+	
 <link rel="stylesheet" type="text/css" href="../css/speechbubbles.css" />
 <script src="../js/speechbubbles.js">
 
@@ -41,8 +37,18 @@
 ***********************************************/
 
 </script>
-	
 
+<script type="text/javascript">
+$(document).ready( function () {
+    $('a.addspeech').speechbubble({url:'speechdata.txt'});
+} );
+/*
+jQuery(function($){ //on document.ready
+ 	//Apply tooltip to links with class="addspeech", plus look inside 'speechdata.txt' for the tooltip markups
+	$('a.addspeech').speechbubble({url:'speechdata.txt'})
+})*/
+
+</script>
 <script type="text/javascript" src="../js/jquery.popupWindow.js"></script>
 <style>
 th {
@@ -111,13 +117,6 @@ centerScreen:1
 <p>To find a database by name, use the A–Z list below. To see a list of databases by subject, use the dropdown menu on the right. You can also browse them by topic in our <a href="http://libguides.bentley.edu/" target="_blank" class="external">research guides</a>.</p>
 
 <p>Unsure of which database to choose? <a href="askalibrarian.asp">Ask a Librarian!</a></p>
-
-<!--<script> 
-    $(function(){
-      $("#includedContent").load("testdatables.html"); 
-    });
-    </script> 
- <div id="includedContent"></div>-->
 <table id="myTable">
     <thead id="head">
         <th>Name</th>
@@ -141,279 +140,11 @@ centerScreen:1
             <td>Management, Statistics</td>
             
         </tr>
-        <tr>
-            <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/mlin_m_bent?db=AONE" target="_blank">Academic OneFile (Infotrac)</a>&nbsp;<a href="#" class="addspeech" rel="#acadone"><img src="../img/info.png" class="info"  /></a></td>
-            <td></td>
-        </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph" target="_blank">Academic Search Premier (EBSCO)</a>&nbsp;<a href="#" class="addspeech" rel="#asp"><img src="../img/info.png" class="info"  /></a></td>
-         <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.proquest.com/accounting/advanced?accountid=8576" target="_blank">Accounting and Tax Index (ProQuest)</a>&nbsp;<a href="#" class="addspeech" rel="#acctax"><img src="../img/info.png" class="info"  /></a> </td>
-         <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://atc.bentley.edu/software/downloads/armlogin.asp" target="_blank">Accounting Research Manager (CCH)</a>&nbsp;<a href="#" class="addspeech" rel="#accresearch"><img src="../img/info.png" class="info"  /></a> </td>
-         <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://portal.acm.org/dl.cfm" target="_blank">ACM Digital Library</a>&nbsp;<a href="#" class="addspeech" rel="#acm"><img src="../img/info.png" class="info"  /></a> </td>
-         <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://edu.adspender.kantarmediana.com" target="_blank">Ad$pender</a>&nbsp;<a href="#" class="addspeech" rel="#adsp"><img src="../img/info.png" class="info"  /></a> </td>
-         <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://agricola.nal.usda.gov/" target="_blank">AGRICOLA</a>&nbsp;<a href="#" class="addspeech" rel="#agricola"><img src="../img/info.png" class="info"  /></a></td>
-         <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://ancestrylibrary.proquest.com" target="_blank">Ancestry® Library </a>&nbsp;<a href="#" class="addspeech" rel="#ancestry"><img src="../img/info.png" class="info"  /></a></td>
-         <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://isiknowledge.com" target="_blank">Arts and Humanities Citation Index from Web of Knowledge </a> (Registration Required for Off-Campus Use)&nbsp;<a href="#" class="addspeech" rel="#artshuman"><img src="../img/info.png" class="info"  /></a> </td>
-         <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://arxiv.org/archive/math" target="_blank">arXiv.org</a>&nbsp;<a href="#" class="addspeech" rel="#arxiv"><img src="../img/info.png" class="info"  /></a></td>
-         <td></td>
-    </tr>
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://www.state.gov/r/pa/ei/bgn/#" target="_blank">Background Notes/Country Fact Sheets (U.S. State Dept.)</a>&nbsp;<a href="#" class="addspeech" rel="#backgroundnotes"><img src="../img/info.png" class="backgroundnotes"/></a></td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a name="B" id="B"></a><a href="http://ezp.bentley.edu/login?url=http://search.proquest.com/bankinginformation/advanced?accountid=8576" target="_blank">Banking Information Source (ProQuest)</a>&nbsp;<a href="#" class="addspeech" rel="#banking"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://www.basarchive.org/bswbBrowse.asp" target="_blank">Biblical Archaeology Society Online Archive</a>&nbsp;<a href="#" class="addspeech" rel="#bibarcha"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://www.biocentury.com/BCApp/" target="_blank">BioCentury </a>&nbsp;<a href="#" class="addspeech" rel="#biocen"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-    
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/mlin_m_bent?db=BIC1" target="_blank">Biography in Context </a>&nbsp;<a href="#" class="addspeech" rel="#biocon"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-    
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://news.bna.com/epln" target="_blank">BNA Electronic Commerce &amp; Law Report</a>&nbsp;<a href="#" class="addspeech" rel="#bnaelectronic"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://pubs.bna.com/ip/BNA/PVL.NSF" target="_blank">BNA Privacy &amp; Security Law Report</a>&nbsp;<a href="#" class="addspeech" rel="#bnaprivacy"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://library.bnatax.com" target="_blank">BNA Tax Library </a>&nbsp;<a href="#" class="addspeech" rel="#bnatax"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu:80/login?url=http://library.books24x7.com/library.asp?^B" target="_blank">Books24x7.com (Business &amp; IT Books)</a>&nbsp;<a href="#" class="addspeech" rel="#books24x7"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/mlin_m_bent?db=BNA" target="_blank">Books and Authors</a>&nbsp;<a href="#" class="addspeech" rel="#bookauth"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /><a href="http://ezp.bentley.edu/login?url=http://search.proquest.com/bostonglobe/advanced?accountid=8576" target="_blank">The Boston Globe (ProQuest)</a>&nbsp;<a href="#" class="addspeech" rel="#bosglobe"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/bentley_main" target="_blank">Business Index ASAP (InfoTrac)</a>&nbsp;<a href="#" class="addspeech" rel="#busindex"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-    
-    <tr>
-      <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/mlin_m_bent?db=BIE" target="_blank">Business Insights: Essentials</a>&nbsp;<a href="#" class="addspeech" rel="#biess"><img src="../img/info.png" class="info"  /></a> </td>
-      <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=bsi" target="_blank">Business Source Premier (EBSCO)</a>&nbsp;<a href="#" class="addspeech" rel="#bsp"><img src="../img/info.png" class="info" /></a></td>
-        <td></td>
-    </tr>
-        <tr><td><img src="../img/arrow2.gif" class="databasearrow" /><a name="C" id="C"></a> <a href="http://ezp.bentley.edu/login?url=http://www.cabells.com/memberarea.aspx" target="_blank">Cabell's Directories</a>&nbsp;<a href="#" class="addspeech" rel="#cabell"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href=" http://ezp.bentley.edu/login?url=http://search.proquest.com/cbcacomplete/advanced?accountid=8576" target="_blank">CBCA (Canadian Business and Current Events) Complete (ProQuest)</a>&nbsp;<a href="#" class="addspeech" rel="#canadianbus"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.proquest.com/canadiannews/advanced?accountid=8576" target="_blank">Canadian Newsstand Complete (ProQuest) </a>&nbsp;<a href="#" class="addspeech" rel="#canadiannews"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://intelliconnect.cch.com/" target="_blank">CCH IntelliConnect (formerly CCH Tax Network)</a>&nbsp;<a href="#" class="addspeech" rel="#cch"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-    <tr >
-      <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://cinefiles.bampfa.berkeley.edu/cinefiles/" target="_blank">CineFiles</a>&nbsp;<a href="#" class="addspeech" rel="#cinefiles"><img src="../img/info.png" class="info"  /></a></td>
-      <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://www.collegesource.org" target="_blank">College Source College Catalogs</a>&nbsp;<a href="#" class="addspeech" rel="#collegesource"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=ufh" target="_blank">Communication and Mass Media Complete (EBSCO)</a>&nbsp;<a href="#" class="addspeech" rel="#commmassmedia"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://www.bls.gov/cex/" target="_blank">Consumer Expenditure Survey</a>&nbsp;<a href="#" class="addspeech" rel="#conexp"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/bentley_main" target="_blank">Contemporary Authors (InfoTrac)</a>&nbsp;<a href="#" class="addspeech" rel="#contauth"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/bentley_main" target="_blank">Contemporary Literary Criticism - Select (InfoTrac)</a>&nbsp;<a href="#" class="addspeech" rel="#contlit"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://export.gov/mrktresearch/index.asp" target="_blank">Country Commercial Guides</a>&nbsp;<a href="#" class="addspeech" rel="#countrycomm"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://library.cqpress.com/cqresearcher" target="_blank">CQ Researcher</a>&nbsp;<a href="#" class="addspeech" rel="#cqr"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-    
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/mlin_m_bent?db=PPCJ" target="_blank">Criminal Justice Collection</a>&nbsp;<a href="#" class="addspeech" rel="#crimjus"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-    
-     <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/mlin_m_bent?db=PPCA" target="_blank">Culinary Arts Collection</a>&nbsp;<a href="#" class="addspeech" rel="#cularts"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /><a name="D" id="D"></a> <a href="http://ezp.bentley.edu/login?url=http://www.mergentmddi.com" target="_blank">D&B Million Dollar Directory</a>&nbsp;<a href="#" class="addspeech" rel="#dbmillion"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /><a name="D" id="D"></a> <a href="http://ezp.bentley.edu/login?url=http://www.mergentkbr.com" target="_blank">D&B Key Business Ratios</a>&nbsp;<a href="#" class="addspeech" rel="#dbkeyratios"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /><a name="D" id="D"></a> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/bentley_main?db=DNOW" target="_blank">Demographics Now</a>&nbsp;<a href="#" class="addspeech" rel="#demonow"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/bentley_main" target="_blank">Dictionary of Literary Biography (InfoTrac)</a>&nbsp;<a href="#" class="addspeech" rel="#dictionary"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.proquest.com/pqdthss/advanced?accountid=8576" target="_blank">Dissertations & Theses: Humanities and Social Sciences</a>&nbsp;<a href="#" class="addspeech" rel="#dissert"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /><a name="E" id="E"></a> <a href="http://ezp.bentley.edu/login?url=http://search.ebscohost.com/" target="_blank">EBSCOHost</a>&nbsp;<a href="#" class="addspeech" rel="#ebsco"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=nlebk" target="_blank">EBSCO eBooks</a>&nbsp;<a href="#" class="addspeech" rel="#netlibrary"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=eoh" target="_blank">EconLit with Full Text (EBSCO)</a>&nbsp;<a href="#" class="addspeech" rel="#econlit"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://econpapers.repec.org/
-        " target="_blank">EconPapers</a>&nbsp;<a href="#" class="addspeech" rel="#econpapers"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/mlin_m_bent?db=PROF
-        " target="_blank">Educator's Reference Complete</a>&nbsp;<a href="#" class="addspeech" rel="#edref"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://www.sciencedirect.com/college" target="_blank">Elsevier ScienceDirect -- College Edition</a>&nbsp;<a href="#" class="addspeech" rel="#elsevier"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-  
-   <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href=" http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/mlin_m_bent?db=PPES
-        " target="_blank">Environmental Studies & Policy Collection</a>&nbsp;<a href="#" class="addspeech" rel="#envstud"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=eric" target="_blank">ERIC (EBSCO)</a>&nbsp;<a href="#" class="addspeech" rel="#eric"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://www.portal.euromonitor.com/portal/server.pt" target="_blank">Euromonitor Passport GMID</a>&nbsp;<a href="#" class="addspeech" rel="#euromonitor"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-  
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/mlin_m_bent?db=EAIM
-        " target="_blank">Expanded Academic ASAP</a>&nbsp;<a href="#" class="addspeech" rel="#expandedasap"><img src="../img/info.png" class="info"  /></a> </td>
-        <td></td>
-    </tr>
-  
-  
-    <tr>
-        <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://export.gov/mrktresearch/" target="_blank">Export.gov Market Research Library (Registration Required)</a>&nbsp;<a href="#" class="addspeech" rel="#exportgov"><img src="../img/info.png" class="info"  /></a></td>
-        <td></td>
-    </tr>
     </tbody>
 </table>
 <div class="databasesplit">
 <h2>Databases A-L</h2>
            <table class="shadow" width="90%" id="databaseaz">
-           <!--
             <tr>
             <th>A</th>
             </tr>
@@ -423,7 +154,6 @@ centerScreen:1
     <tr><td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.proquest.com/abiglobal/advanced?accountid=8576" target="_blank">ABI/Inform Global (ProQuest)</a>&nbsp;<a href="#" class="addspeech" rel="#abiglobal"><img src="../img/info.png" class="info"  /></a> </td></tr>
 
     <tr><td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.proquest.com/abitrade/advanced?accountid=8576" target="_blank">ABI/Inform Trade &amp; Industry (ProQuest) </a>&nbsp;<a href="#" class="addspeech" rel="#abitrade"><img src="../img/info.png" class="info"  /></a> </td></tr>
-
 
  <tr><td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/mlin_m_bent?db=AONE" target="_blank">Academic OneFile (Infotrac)</a>&nbsp;<a href="#" class="addspeech" rel="#acadone"><img src="../img/info.png" class="info"  /></a></td></tr>
 
@@ -445,7 +175,6 @@ centerScreen:1
 
     <tr><td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://arxiv.org/archive/math" target="_blank">arXiv.org</a>&nbsp;<a href="#" class="addspeech" rel="#arxiv"><img src="../img/info.png" class="info"  /></a></td></tr>
             <tr>
-                
             <th>B</th>
             </tr>
 
@@ -478,7 +207,7 @@ centerScreen:1
       <td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://infotrac.galegroup.com/itweb/mlin_m_bent?db=BIE" target="_blank">Business Insights: Essentials</a>&nbsp;<a href="#" class="addspeech" rel="#biess"><img src="../img/info.png" class="info"  /></a> </td></tr>
 
     <tr><td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=bsi" target="_blank">Business Source Premier (EBSCO)</a>&nbsp;<a href="#" class="addspeech" rel="#bsp"><img src="../img/info.png" class="info" /></a> </td></tr>
-        
+
             <tr>
             <th>C</th>
             </tr>
@@ -487,6 +216,10 @@ centerScreen:1
 
     <tr><td><img src="../img/arrow2.gif" class="databasearrow" /> <a href=" http://ezp.bentley.edu/login?url=http://search.proquest.com/cbcacomplete/advanced?accountid=8576" target="_blank">CBCA (Canadian Business and Current Events) Complete (ProQuest)</a>&nbsp;<a href="#" class="addspeech" rel="#canadianbus"><img src="../img/info.png" class="info"  /></a></td></tr>
 
+
+    
+    
+    
     <tr><td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://search.proquest.com/canadiannews/advanced?accountid=8576" target="_blank">Canadian Newsstand Complete (ProQuest) </a>&nbsp;<a href="#" class="addspeech" rel="#canadiannews"><img src="../img/info.png" class="info"  /></a></td></tr>
 
     <tr><td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://ezp.bentley.edu/login?url=http://intelliconnect.cch.com/" target="_blank">CCH IntelliConnect (formerly CCH Tax Network)</a>&nbsp;<a href="#" class="addspeech" rel="#cch"><img src="../img/info.png" class="info"  /></a> </td></tr>
@@ -556,7 +289,7 @@ centerScreen:1
   
   
   <tr><td><img src="../img/arrow2.gif" class="databasearrow" /> <a href="http://export.gov/mrktresearch/" target="_blank">Export.gov Market Research Library (Registration Required)</a>&nbsp;<a href="#" class="addspeech" rel="#exportgov"><img src="../img/info.png" class="info"  /></a></td></tr>
--->
+
 
             <tr>
             <th>F</th>
@@ -906,26 +639,10 @@ centerScreen:1
 		</div>
       
 <!--#include file="../includes/footer.inc"-->
-
-<script type="text/javascript">
-$113(document).ready( function ($) {
-    $('#myTable').DataTable({
-        paging: false
-    });
-} );
-</script>
-
 <script type="text/javascript">
 $(document).ready( function () {
-    $('a.addspeech').speechbubble({url:'speechdata.txt'});
+    $('#myTable').DataTable();
 } );
-/*
-jQuery(function($){ //on document.ready
- 	//Apply tooltip to links with class="addspeech", plus look inside 'speechdata.txt' for the tooltip markups
-	$('a.addspeech').speechbubble({url:'speechdata.txt'})
-})*/
-
 </script>
-
 </body>
 </html>
